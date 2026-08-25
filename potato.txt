@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,4 +9,16 @@
 <body>
     hello world
 </body>
+=======
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shi's hello world</title>
+</head>
+<body>
+    hello world
+</body>
+>>>>>>> 4929d754b1ad68c9d3313febe66bbec275312593
 </html>
